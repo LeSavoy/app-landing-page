@@ -8,7 +8,7 @@ export function Navbar () {
           </div>
 
           <div>
-            <ul className="flex gap-10 text-sm">
+            <ul className="flex gap-10 text-sm cursor-pointer">
               <li>Home</li>
               <li>Features</li>
               <li>About Pay</li>

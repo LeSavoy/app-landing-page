@@ -8,6 +8,9 @@ export default {
     extend: {
       fontFamily: {
         'poppins': ['poppins', 'sans-serif']
+      },
+      colors: {
+        dejaGray: '#CBCAF7'
       }
     },
   },
